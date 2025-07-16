@@ -29,11 +29,10 @@ A deep learning-based binary image classifier to detect breast cancer by disting
 breast-cancer-classifier/
 │
 ├── notebooks/
-│ └── breast_cancer_model.ipynb
+│ └── breast_cancer.ipynb
 │
 ├── results/
-│ ├── accuracy_loss.png
-│ └── confusion_matrix.png
+│ ├── breast_cancer_cnn.pth
 │
 ├── data/
 │ └── README.md # Instructions to download data
@@ -46,8 +45,8 @@ breast-cancer-classifier/
 
 ## 📊 Results
 
-- ✅ **Model Accuracy**: _xx% (to be updated)_
-- 📉 **Loss Curves** and 🧩 **Confusion Matrix** are available in the `results/` folder.
+- ✅ **Model Accuracy**: 88%
+- Model  is  available in the `results/` folder.
 
 ---
 
